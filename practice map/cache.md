@@ -1,0 +1,244 @@
+# ==🟢Spawn smoke==
+
+## ==🔴Ct==
+### 1
+### 2
+### 3
+### 4
+### 5
+
+## ==🔴T==
+### 1
+### 2
+### 3
+### 4
+### 5
+# ==🟢Debut smoke==
+## ==🔴T==
+### `A`
+
+
+
+### `Mid`
+
+
+### `B`
+
+
+
+## ==🔴CT==
+### `A`
+
+### `Mid`
+### `B`
+
+
+
+# ==🟢Debut utils==
+
+## ==🔴CT==
+### `A`
+
+### `Mid`
+
+### `B`
+
+## ==🔴T==
+ 
+### `A`
+### `Mid`
+
+### `B`
+
+
+
+# ==🟢Situation smoke==
+## ==🔴CT==
+## ==🔴T==
+# ==🟢Situation utils==
+## ==🔴CT==
+## ==🔴T==
+
+# ==🟢Round==
+
+## ==🔴T==
+### ==🔵Pistol==
+#### **A**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second-third entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+
+##### ==🟠F==
+###### **need**
+
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second-third entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+#### **Mid**
+
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second-third entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+#### **B**
+##### ==🟠5 stack b==
+###### **need:
+
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+
+### ==🔵Eco==
+#### **A**
+##### ==🟠5 stack water, 1 check water==
+###### **need**
+
+###### **My execution**
+
+#### **Mid**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+#### **B**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+### ==🔵Buy==
+#### **A**
+#### **Mid**
+**B**
+## ==🔴CT==
+### ==🔵Pistol==
+#### **A**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second-third entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+
+###### **need**
+
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second-third entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+#### **Mid**
+
+##### ==🟠5 stack mid to b==
+###### **need**
+sdsd
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second-third entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+#### **B**
+##### ==🟠5 stack b==
+###### **need:*
+1 smoke ct
+1 smoke temple
+flash
+###### **My execution**
+==🟣if im entrying==
+
+==🟣if im second entry==
+
+==🟣if im lurking==
+
+###### **Execution exemple**
+
+### ==🔵Eco==
+#### **A**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+#### **Mid**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+#### **B**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+### ==🔵Buy==
+#### **A**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+#### **Mid**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+#### **B**
+##### ==🟠x==
+###### **need**
+
+###### **My execution**
+
+
+
+# ==🟠Gameplay==
+
+## ==🔴Remarque==
+#### *Quoi changer*
+#### *Quoi de bon*
+## ==🟡video mirage==
+
+## ==🟣Execute réussi moi==
+
+## ==🟣Execute réussi pro==
+
+# ==🟢Point fort et faiblesse sur Dust==
+## x

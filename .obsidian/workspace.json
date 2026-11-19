@@ -1,0 +1,472 @@
+{
+  "main": {
+    "id": "15a9b52378df1adf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e64aae85c5df31e",
+        "type": "split",
+        "children": [
+          {
+            "id": "162bd510f155e90c",
+            "type": "tabs",
+            "dimension": 50.93390804597702,
+            "children": [
+              {
+                "id": "52fdb8c8f45c193b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Mirage.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mirage"
+                }
+              },
+              {
+                "id": "9ee45b9149c9bc10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Ancient.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ancient"
+                }
+              },
+              {
+                "id": "06567c82b70b51e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Anubis.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Anubis"
+                }
+              },
+              {
+                "id": "f6c86566b130a559",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/cache.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "cache"
+                }
+              },
+              {
+                "id": "88798c6de60e8940",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Dust.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dust"
+                }
+              },
+              {
+                "id": "d4aee0f2d32d96fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Inferno.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inferno"
+                }
+              },
+              {
+                "id": "46865573ac9e00f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Mirage.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mirage"
+                }
+              },
+              {
+                "id": "09a5f2c221d4b5f3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Nuke.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Nuke"
+                }
+              }
+            ]
+          },
+          {
+            "id": "56dc57073e16859d",
+            "type": "tabs",
+            "dimension": 49.06609195402299,
+            "children": [
+              {
+                "id": "02de8a192f89ea08",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Mirage.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mirage"
+                }
+              },
+              {
+                "id": "31d3f7d9b8d19861",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Ancient.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ancient"
+                }
+              },
+              {
+                "id": "fe222c293d381bb0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Anubis.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Anubis"
+                }
+              },
+              {
+                "id": "38b301caebc16f9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/cache.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "cache"
+                }
+              },
+              {
+                "id": "7a4d47f3d5a80144",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Dust.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dust"
+                }
+              },
+              {
+                "id": "a94852d3da564692",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Inferno.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inferno"
+                }
+              },
+              {
+                "id": "b94f9f64e61b17ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Mirage.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mirage"
+                }
+              },
+              {
+                "id": "cc0dc07ce6464382",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "practice map/Nuke.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Nuke"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8bc5dac6ebad700",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d266d80a9b003bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d96a55708d6dda8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "343ea9535229c6c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e5bcc8d2e23516d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f9e1fe27e32d0b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e697a913eacdce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e564d522ae1675e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "practice map/Mirage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6b289fc411f58cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "practice map/Mirage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8625bc53bbd5148b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5ae1fde1de42e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2865f8ee9181203a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "practice map/Mirage.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 641.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9d96a55708d6dda8",
+  "lastOpenFiles": [
+    "practice map 1/Nuke.md",
+    "practice map 1/Mirage.md",
+    "practice map 1/Inferno.md",
+    "practice map 1/Dust.md",
+    "practice map 1/cache.md",
+    "practice map 1/Anubis.md",
+    "practice map 1/Ancient.md",
+    "practice map 1",
+    "practice map/Nuke.md",
+    "practice map/Mirage.md",
+    "practice map/Inferno.md",
+    "practice map/Dust.md",
+    "practice map/cache.md",
+    "practice map/Anubis.md",
+    "practice map/Ancient.md",
+    "mid-door-molotov.webm",
+    "a-short-close-flash-from-b1.webm",
+    "Untitled",
+    "banana-isolation-smoke-from-t-spawn.webm",
+    "half-wall-smoke-from-coffins.webm",
+    "half-wall-smoke-from-ct.webm",
+    "half-wall-smoke-from-church.webm",
+    "videoUrl1kWebm-417f487e1d5ee85e51d3b90d (1).webm",
+    "banana-t-ramp-smoke-from-ct-spawn.webm",
+    "Pasted image 20261118163718.png",
+    "Pasted image 20261118021320.png",
+    "Pasted image 20261118005607.png",
+    "Screenshot 2026-11-17 204915.png",
+    "Screenshot 2026-11-17 204908.png",
+    "Screenshot 2026-11-17 204630.png",
+    "Screenshot 2026-11-17 204609.png",
+    "Screenshot 2026-11-17 204459.png",
+    "Screenshot 2026-11-17 204440.png",
+    "Screenshot 2026-11-17 204404.png",
+    "dae326db-22a1-427d-a5b8-d0dcf4e85c8a_ExportBlock-b1be5900-406d-4864-87df-d91e2e82435d/Cs2.md",
+    "Welcome.md",
+    "Untitled 1.md"
+  ]
+}
